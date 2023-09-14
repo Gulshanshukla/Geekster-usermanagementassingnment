@@ -1,5 +1,21 @@
 # <h1 align ="center">USER MANAGEMENT SYSTEM</h1>
 ***
+<p align ="center">
+<a href="Java url"> 
+  <img alt="Java" src="https://img.shields.io/badge/Java->=8-darkblue.svg"/>
+</a>
+<a href="Maven url"> 
+  <img alt="Maven" src="https://img.shields.io/badge/maven-4.0.0-brightgreen.svg"/>
+</a>
+<a href="Spring Boot url"> 
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.1.3-brightgreen.svg"/>
+</a>
+<a href="Spring Boot url"> 
+  <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg"/>
+</a>
+
+
+  
 ### overview
 ***
 The project "user management system" is a robust SpringBoot Application designed for managing users data efficiently.it provides a set of REST full API endpoints that allows you to perform variose  operations on users 
